@@ -1,5 +1,6 @@
 // switchs in js
-// dice
+// dice moves  after a roll
+
 
 let dice = 4;
 let roll; 
