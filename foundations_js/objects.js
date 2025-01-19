@@ -19,4 +19,5 @@ const person2 ={
 
 person1.sayhello();
 person2.respondToHello();
-console.log("thats how they met")
+console.log("thats how they met");
+console.log("hello happy people");
