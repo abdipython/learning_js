@@ -22,4 +22,5 @@ person1.sayhello();
 person2.respondToHello();
 console.log("thats how they met");
 console.log("hello happy people");
-console.log(person1)
+console.log(person1);
+console.log(person2.firstName)
