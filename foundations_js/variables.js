@@ -19,3 +19,4 @@ console.log(z);
 console.log(`Your fullnames are ${firstName + lastName}` );
 console.log(`Is Francis online?${online}`);
 console.log(`Your total amount is ${discount - z+ noValue}`);
+console.log("hello world !")
