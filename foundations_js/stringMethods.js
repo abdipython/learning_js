@@ -40,3 +40,4 @@ let childName = "BABY";
  let popularName = "fort"
   popularName = popularName.replaceAll("f", "b");//replace method 
   console.log(popularName);
+  console.log("hello world ")
