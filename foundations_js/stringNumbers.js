@@ -1,2 +1,6 @@
-/// we gonna learn string numbers
-let x ="12345"
+/// we gonna learn string to numbers typeconversion
+let  age = window.prompt("Whats your age?");
+
+age+=1;
+
+console.log(age);
