@@ -28,3 +28,4 @@ let legumes = ["peas","blackeyed-beans","green-grams","beans"]
 
 legumes.shift();
 console.log(legumes);
+console.log("hello !!!this are my arrays  ")
