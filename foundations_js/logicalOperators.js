@@ -19,4 +19,4 @@ console.log("           ")
  }
  else{
     console.log("Theres no sun ,its cloudy")
- }
+ }  

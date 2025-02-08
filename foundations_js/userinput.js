@@ -6,3 +6,4 @@ const prompt = ps();
 userName = prompt;
 
 console.log(`you said your name is ${userName}`);
+console.log("hello world!");
