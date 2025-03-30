@@ -14,3 +14,7 @@ else if(num2 > num3){
 else{
     console.log("num3 is greatest");
 }
+
+console.log("hyy am back at coding");
+console.log("coding is fun");
+console.log("build a coding streak");
