@@ -14,4 +14,38 @@ button{
     margin: 2rem;
     background-color: teal;
     color: whitesmoke;
+    padding: .5rem 1rem ;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 0 12px 8px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+button:hover{ background-color: darkslategray;}
+.modal{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+.modal_overlay{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.modal_content{
+    background-color: blanchedalmond;
+    padding: 3rem;
+    position: relative;
+    cursor: pointer;
+}
+.modal.open{
+    display: flex;
 }
