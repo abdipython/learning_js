@@ -1,0 +1,17 @@
+html{
+    height: 100%;
+}
+body {
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-image: url(sunset.jpeg);
+    background-size: cover;
+
+}
+button{
+    margin: 2rem;
+    background-color: teal;
+    color: whitesmoke;
+}
